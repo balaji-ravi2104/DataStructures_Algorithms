@@ -5,9 +5,7 @@ class Graph {
     public static int V;
     public static LinkedList<Integer>[] adjList;
 
-    public Graph(){
-
-    }
+    public Graph(){}
 
     public Graph(int V) {
         this.V = V;
