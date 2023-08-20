@@ -4,40 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ff0b2379-1bbe-432c-9951-9834481c8ce4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binary Tree/Binary Tree.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binary Tree/src/BinarySearchTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binary Tree/src/BinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DSA.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DoublyLinkedList/DoublyLinkedList.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DoublyLinkedList/src/DoublyLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DoublyLinkedList/src/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Graph-AdjMatrix/Graph-AdjMatrix.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Graph-AdjMatrix/src/BFS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Graph-AdjMatrix/src/DFS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Graph-AdjMatrix/src/Graph.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Graph/Graph.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Graph/src/BFS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Graph/src/DFS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Graph/src/Graph.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedList/LinkedList.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedList/src/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedList/src/SinglyLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Queue/Queue.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Queue/src/ArrayQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Queue/src/LinkedListQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Queue/src/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stack/Stack.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stack/src/ArrayStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stack/src/LinkedListStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stack/src/ListNode.java" afterDir="false" />
+    <list default="true" id="ff0b2379-1bbe-432c-9951-9834481c8ce4" name="Changes" comment="New Commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -132,10 +100,20 @@
       <option name="presentableId" value="Default" />
       <updated>1691731472327</updated>
     </task>
+    <task id="LOCAL-00001" summary="New Commit">
+      <created>1692510695193</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1692510695193</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="New Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="New Commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
