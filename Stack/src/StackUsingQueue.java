@@ -20,7 +20,10 @@ class MyStack{
     }
 
     public int peek(){
-        return queue.peek();
+        if(!queue.isEmpty()){
+            return queue.peek();
+        }
+        return 0;
     }
 
     public boolean empty(){
@@ -42,5 +45,6 @@ public class StackUsingQueue {
         myStack.push(16);
         myStack.push(17);
         System.out.println(myStack.peek());
+        System.out.println(myStack.empty());
     }
 }
