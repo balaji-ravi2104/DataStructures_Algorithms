@@ -112,6 +112,7 @@ class Trie {
                 return 0;
             }
         }
+        // getting the count of the words equal to the given word
         return node.getEnd();
     }
 
@@ -124,6 +125,7 @@ class Trie {
                 return 0;
             }
         }
+        // getting the count of the words starts with given word
         return node.getPrefix();
     }
 
@@ -132,11 +134,13 @@ class Trie {
         for(int i=0;i<word.length();i++){
             if(node.containsKey(word.charAt(i))){
                 node = node.get(word.charAt(i));
+                // reducing the character count
                 node.reducePrefix();
             }else{
                 return;
             }
         }
+        // reducing the cound count at end
         node.reduceEnd();
     }
 }
