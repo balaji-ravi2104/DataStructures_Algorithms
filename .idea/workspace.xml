@@ -5,12 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ff0b2379-1bbe-432c-9951-9834481c8ce4" name="Changes" comment="New Commit">
-      <change afterPath="$PROJECT_DIR$/Segement Trees/Segement Trees.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Segement Trees/src/SegementTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Trie/Trie.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Trie/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Stack/src/StackUsingQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/Stack/src/StackUsingQueue.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,10 +61,10 @@
     &quot;jdk.selected.JAVA_MODULE&quot;: &quot;17&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.SegementTree">
-    <configuration name="DoublyLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DoublyLinkedList" />
-      <module name="DoublyLinkedList" />
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Trie" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -92,20 +90,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WeightGraph" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="WeightGraph" />
-      <module name="Graph" />
+    <configuration name="Trie" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Trie" />
+      <module name="Trie" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Trie" />
         <item itemvalue="Application.SegementTree" />
         <item itemvalue="Application.StackUsingQueue" />
         <item itemvalue="Application.QueueUsingStack" />
-        <item itemvalue="Application.WeightGraph" />
-        <item itemvalue="Application.DoublyLinkedList" />
       </list>
     </recent_temporary>
   </component>
@@ -167,7 +165,14 @@
       <option name="project" value="LOCAL" />
       <updated>1693836232382</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="New Commit">
+      <created>1693927635939</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1693927635939</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
