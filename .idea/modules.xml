@@ -10,6 +10,7 @@
       <module fileurl="file://$PROJECT_DIR$/LinkedList/LinkedList.iml" filepath="$PROJECT_DIR$/LinkedList/LinkedList.iml" />
       <module fileurl="file://$PROJECT_DIR$/Queue/Queue.iml" filepath="$PROJECT_DIR$/Queue/Queue.iml" />
       <module fileurl="file://$PROJECT_DIR$/Segement Trees/Segement Trees.iml" filepath="$PROJECT_DIR$/Segement Trees/Segement Trees.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sorting_Algorithm/Sorting_Algorithm.iml" filepath="$PROJECT_DIR$/Sorting_Algorithm/Sorting_Algorithm.iml" />
       <module fileurl="file://$PROJECT_DIR$/Stack/Stack.iml" filepath="$PROJECT_DIR$/Stack/Stack.iml" />
       <module fileurl="file://$PROJECT_DIR$/Trie/Trie.iml" filepath="$PROJECT_DIR$/Trie/Trie.iml" />
     </modules>

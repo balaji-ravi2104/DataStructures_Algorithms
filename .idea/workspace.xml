@@ -4,9 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ff0b2379-1bbe-432c-9951-9834481c8ce4" name="Changes" comment="New Commit">
-      <change afterPath="$PROJECT_DIR$/Trie/Trie.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Trie/src/Main.java" afterDir="false" />
+    <list default="true" id="ff0b2379-1bbe-432c-9951-9834481c8ce4" name="Changes" comment="Trie Commit">
+      <change afterPath="$PROJECT_DIR$/Sorting_Algorithm/Sorting_Algorithm.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sorting_Algorithm/src/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sorting_Algorithm/src/HeapSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sorting_Algorithm/src/InsertionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sorting_Algorithm/src/MergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sorting_Algorithm/src/QuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sorting_Algorithm/src/SelectionSort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -61,49 +66,49 @@
     &quot;jdk.selected.JAVA_MODULE&quot;: &quot;17&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Trie" />
+  <component name="RunManager" selected="Application.HeapSort">
+    <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BubbleSort" />
+      <module name="Sorting_Algorithm" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QueueUsingStack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="QueueUsingStack" />
-      <module name="Queue" />
+    <configuration name="HeapSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HeapSort" />
+      <module name="Sorting_Algorithm" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SegementTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SegementTree" />
-      <module name="Segement Trees" />
+    <configuration name="InsertionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InsertionSort" />
+      <module name="Sorting_Algorithm" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StackUsingQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StackUsingQueue" />
-      <module name="Stack" />
+    <configuration name="MergeSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MergeSort" />
+      <module name="Sorting_Algorithm" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Trie" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Trie" />
-      <module name="Trie" />
+    <configuration name="QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="QuickSort" />
+      <module name="Sorting_Algorithm" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Trie" />
-        <item itemvalue="Application.SegementTree" />
-        <item itemvalue="Application.StackUsingQueue" />
-        <item itemvalue="Application.QueueUsingStack" />
+        <item itemvalue="Application.HeapSort" />
+        <item itemvalue="Application.QuickSort" />
+        <item itemvalue="Application.BubbleSort" />
+        <item itemvalue="Application.MergeSort" />
+        <item itemvalue="Application.InsertionSort" />
       </list>
     </recent_temporary>
   </component>
@@ -172,13 +177,21 @@
       <option name="project" value="LOCAL" />
       <updated>1693927635939</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Trie Commit">
+      <created>1693985921923</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1693985921923</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="New Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="New Commit" />
+    <MESSAGE value="Trie Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Trie Commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
