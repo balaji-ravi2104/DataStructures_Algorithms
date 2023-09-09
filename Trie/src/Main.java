@@ -17,7 +17,7 @@ class Node{
     public void put(char ch,Node node){
         links[ch-'a']=node;
     }
-
+ 
     public Node get(char ch){
         return links[ch-'a'];
     }
